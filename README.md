@@ -1,18 +1,18 @@
 # Beach Wave Tracking System
 . The Beach Wave Tracking System is a web application developed using JavaScript, HTML, CSS, and AWS services <br>
 . It provides a platform  for tracking and monitoring beach wave conditions in real-time, allowing users to stay informed about wave <br>
- height, frequency, and other relevant parameters.
+. height, frequency, and other relevant parameters.
 
 # Features
-. Real-time tracking of beach wave conditions
-. User-friendly interface for easy navigation and interaction
-. Customizable settings for personalized wave tracking experience
+. Real-time tracking of beach wave conditions <br>
+. User-friendly interface for easy navigation and interaction  <br>
+. Customizable settings for personalized wave tracking experience  <br>
 . Integration with AWS services for reliable performance and scalability
 
 # Technologies Used
-. JavaScript
-. HTML
-. CSS
+. JavaScript  <br>
+. HTML  <br>
+. CSS  <br>
 . AWS (Amazon Web Services)
 
 
